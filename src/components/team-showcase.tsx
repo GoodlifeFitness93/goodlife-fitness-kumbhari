@@ -18,9 +18,9 @@ const teamMembers: TeamMember[] = [
   {
     id: 'arvind-sir',
     name: 'Arvind Sir',
-    designation: 'Trainer',
+    designation: 'Personal Trainer',
     image: '/images/trainers/arvind-sir.jpg',
-    alt: 'Arvind Sir - Trainer at Goodlife Fitness Club & Gym',
+    alt: 'Arvind Sir - Personal Trainer at Goodlife Fitness Club & Gym',
   },
   {
     id: 'aditya-sir',
